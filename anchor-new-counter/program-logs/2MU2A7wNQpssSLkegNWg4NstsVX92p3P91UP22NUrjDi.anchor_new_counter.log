@@ -1,0 +1,35 @@
+Streaming transaction logs mentioning 2MU2A7wNQpssSLkegNWg4NstsVX92p3P91UP22NUrjDi. Confirmed commitment
+Transaction executed in slot 2:
+  Signature: 2PdYBQtmyWGqE7eTSVmZUXPb6KB9XDzcj6oWjMokKqoCkPP4h72CTWY68dFU6MGrTzEZgJUymsdPVXxLGHJFH87p
+  Status: Ok
+  Log Messages:
+    Program 2MU2A7wNQpssSLkegNWg4NstsVX92p3P91UP22NUrjDi invoke [1]
+    Program log: Instruction: Initialize
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program log: Counter Account Created!
+    Program log: Current Count: 0
+    Program 2MU2A7wNQpssSLkegNWg4NstsVX92p3P91UP22NUrjDi consumed 5696 of 200000 compute units
+    Program 2MU2A7wNQpssSLkegNWg4NstsVX92p3P91UP22NUrjDi success
+Transaction executed in slot 3:
+  Signature: 2Bgh8VzSzdVTnZVifssb5ebYagqg7BfPML9qFCKsjpSEt5eMAnMNtZmN6MnDFXR6QoG3KBiao5AsYrHmZJiPxQgP
+  Status: Ok
+  Log Messages:
+    Program 2MU2A7wNQpssSLkegNWg4NstsVX92p3P91UP22NUrjDi invoke [1]
+    Program log: Instruction: Increment
+    Program log: Previous counter: 0
+    Program log: Counter count incremented
+    Program log: Current Count: 1
+    Program 2MU2A7wNQpssSLkegNWg4NstsVX92p3P91UP22NUrjDi consumed 2098 of 200000 compute units
+    Program 2MU2A7wNQpssSLkegNWg4NstsVX92p3P91UP22NUrjDi success
+Transaction executed in slot 4:
+  Signature: hb2ZaUc5EputJppYK2QxhtLQQWNmShgCmruCKpPZaWA7x6LYDa1DCoB3FxL29ktCmt4yCmxpH2ghb7kxJgHBJkq
+  Status: Ok
+  Log Messages:
+    Program 2MU2A7wNQpssSLkegNWg4NstsVX92p3P91UP22NUrjDi invoke [1]
+    Program log: Instruction: Decrement
+    Program log: Previous counter: 1
+    Program log: Counter count decremented
+    Program log: Current Count: 0
+    Program 2MU2A7wNQpssSLkegNWg4NstsVX92p3P91UP22NUrjDi consumed 2101 of 200000 compute units
+    Program 2MU2A7wNQpssSLkegNWg4NstsVX92p3P91UP22NUrjDi success
