@@ -1,4 +1,4 @@
-# solana onchain program (From zero to >>>?)
+# solana onchain program
 
 1. rust_learning: basic of rust (ownership, borrow, reference. clone, impl, enum, match, struct)
    
